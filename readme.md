@@ -3,7 +3,7 @@
  ### 🌟 About me !
 
  👨‍💻My name is Fazl Ahmad Hotaki. I am from Afghanistan. I speak Pashto, Dari, English. 
-## 📝👑I am a front-end developer. 
+### 📝👑I am a front-end developer. 
  I work with HTML, CSS, JavaScript, and Bootstrap to build responsive and user-friendly websites.✏️
  
  click [here]( https://mrhadsheanas.github.io/fortest/) to see my ptoject or click this picture
